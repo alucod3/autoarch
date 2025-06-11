@@ -12,7 +12,7 @@ Este script automatiza a instalação e configuração de um ambiente de desenvo
 - `git`, `curl`, `zsh`, `oh-my-zsh`
 - `alacritty` (terminal), `vim` e `neovim` (editors)
 - `lazyvim` (configuração moderna para neovim)
-- Nerd Fonts: JetBrainsMono e ShantellSans (Shanns)
+- Nerd Fonts: JetBrainsMono
 - `yay` (AUR helper)
 
 ---
